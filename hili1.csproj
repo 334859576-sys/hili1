@@ -68,6 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="hili.html" />
+    <Content Include="HtmlPage1.html" />
+    <Content Include="JavaScript.js" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
